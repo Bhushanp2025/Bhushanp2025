@@ -1,12 +1,11 @@
 
 
 # Hi there, I'm Bhushan👋
-
+<h1 align="center">Hi there, I'm Bhushan 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=🚀+B.Tech+Computer+Science+Student;💻+Systems+%26+ML+Enthusiast;🔬+Generative+Retrieval+Researcher;⚡+Building+High+Performance+Systems&center=true&vCenter=true&pause=1200&width=600&height=60&color=00BFFF&size=28">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=🚀+B.Tech+Computer+Science+Student;💻+Systems+%26+ML+Enthusiast;🔬+Generative+Retrieval+Researcher;⚡+Building+High+Performance+Systems"/>
 </p>
-
 ---
 
 ### 🧠 About Me
