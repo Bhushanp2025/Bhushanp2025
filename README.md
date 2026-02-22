@@ -38,9 +38,8 @@
         Let's build something amazing together! Reach out for collaborations, project ideas, or research partnerships.
 
 ---
+---
 
-
-## 📊 GitHub Stats
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
@@ -50,7 +49,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushanp2025&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+</p> 
+
 ---
 
 ## 💻 Languages & Core
