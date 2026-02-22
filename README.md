@@ -22,14 +22,14 @@ Python | ML | Streamlit | NumPy | Git | React
 
 
 ### 🤝 Open for Collaboration
-                                                                                       Interested in:
+                                                             Interested in:
 
-🔍 Information Retrieval research
-🤖 Machine Learning projects
-⚡ System optimization challenges
-🌐 Distributed systems design
-🔐 Smart contract development
-📚 Open-source contributions
+.                                                 🔍 Information Retrieval research
+                                                  🤖 Machine Learning projects
+                                                  ⚡ System optimization challenges
+                                                  🌐 Distributed systems design
+                                                  🔐 Smart contract development
+                                                  📚 Open-source contributions
 
 <!--
 **Bhushanp2025/Bhushanp2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
