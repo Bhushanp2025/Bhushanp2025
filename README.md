@@ -41,14 +41,16 @@
 
 
 ## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhushanp2025&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhushanp2025&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Bhushanp2025&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushanp2025&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushanp2025&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
 ---
 
 ## 💻 Languages & Core
