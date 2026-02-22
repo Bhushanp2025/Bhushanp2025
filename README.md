@@ -1,5 +1,3 @@
-
-
 # Hi there, I'm Bhushan 👋
 
 <p align="center">
@@ -22,9 +20,6 @@
 
 ---
 
-
-
-
 ### 🤝 Open for Collaboration
                                                              Interested in:
 
@@ -36,8 +31,6 @@
                                                   📚 Open-source contributions
 
         Let's build something amazing together! Reach out for collaborations, project ideas, or research partnerships.
-
----
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
