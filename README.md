@@ -42,13 +42,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?bhushanp2025=BHUSHANP2025&show_icons=true&dark=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhushanp2025&show_icons=true&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?bhushanp2025=BHUSHANP2025&layout=compact&dark=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushanp2025&layout=compact&theme=tokyonight" height="170"/>
 </p>
-
 
 ---
 
