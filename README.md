@@ -2,7 +2,9 @@
 
 # Hi there, I'm Bhushan👋
 
-🚀 AI Developer | ML Enthusiast | Builder
+🚀 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Developer;ML+Enthusiast;Builder&center=true&width=500&height=50&color=00BFFF&size=28">
+</p>
 
 ---
 
