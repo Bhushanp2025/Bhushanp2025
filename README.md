@@ -24,7 +24,7 @@ Python | ML | Streamlit | NumPy | Git | React
 ### 🤝 Open for Collaboration
                                                              Interested in:
 
-.                                                 🔍 Information Retrieval research
+                                                 🔍 Information Retrieval research
                                                   🤖 Machine Learning projects
                                                   ⚡ System optimization challenges
                                                   🌐 Distributed systems design
