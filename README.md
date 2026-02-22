@@ -33,17 +33,23 @@ Python | ML | Streamlit | NumPy | Git | React
 
         Let's build something amazing together! Reach out for collaborations, project ideas, or research partnerships.
 
+---
+
+
 ## 📊 GitHub Stats
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?Bhushanp2025=Bhushanp2025&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bhushanp2025&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Bhushanp2025=Bhushanp2025&layout=compact&theme=tokyonight)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?Bhushanp2025=Bhushanp2025&show_icons=true&dark=tokyonight"/>
 </p>
 
 
+---
+---
 
-<p align="center">
 ## 💻 Languages & Core
 ![Python](https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-0A0A0A?style=for-the-badge&logo=cplusplus)
@@ -99,5 +105,5 @@ Python | ML | Streamlit | NumPy | Git | React
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Conda](https://img.shields.io/badge/-Conda-44A833?style=for-the-badge&logo=anaconda)
 ![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=for-the-badge)
-</p>
+
 
