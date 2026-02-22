@@ -1,23 +1,24 @@
 
 
-# Hi there, I'm Bhushan👋
+# Hi there, I'm Bhushan 👋
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;Systems+%26+ML+Enthusiast;Generative+Retrieval+Researcher;Building+High+Performance+Systems"/>
 </p>
 
 ---
----
 
-                                                           ### 🧠 About Me
+### 🧠 About Me 
+                                                             
                                              - 🔭 Currently working on AI projects
                                              - 🌱 Learning Machine Learning deeply
                                              - 💡 Love building cool systems
 
 ---
 
-                                                            ### ⚡ Skills
-                                               Python | ML | Streamlit | NumPy | Git | React
+### ⚡ Skills & Technology
+                                                             
+                                             - Python | ML | Streamlit | NumPy | Git | React
 
 ---
 
@@ -50,7 +51,7 @@
 </p>
 
 
----
+
 ---
 
 ## 💻 Languages & Core
