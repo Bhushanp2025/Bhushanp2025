@@ -31,7 +31,7 @@ Python | ML | Streamlit | NumPy | Git | React
                                                   🔐 Smart contract development
                                                   📚 Open-source contributions
 
-    Let's build something amazing together! Reach out for collaborations, project ideas, or research partnerships.
+        Let's build something amazing together! Reach out for collaborations, project ideas, or research partnerships.
 <!--
 **Bhushanp2025/Bhushanp2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
