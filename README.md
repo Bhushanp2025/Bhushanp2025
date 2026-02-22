@@ -41,6 +41,9 @@ Python | ML | Streamlit | NumPy | Git | React
 <img src="https://github-readme-stats.vercel.app/api?Bhushanp2025=Bhushanp2025&show_icons=true&dark=tokyonight"/>
 </p>
 
+
+
+<p align="center">
 ## 💻 Languages & Core
 ![Python](https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-0A0A0A?style=for-the-badge&logo=cplusplus)
@@ -96,4 +99,5 @@ Python | ML | Streamlit | NumPy | Git | React
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Conda](https://img.shields.io/badge/-Conda-44A833?style=for-the-badge&logo=anaconda)
 ![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=for-the-badge)
+</p>
 
