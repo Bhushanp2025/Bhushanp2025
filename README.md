@@ -22,7 +22,7 @@ Python | ML | Streamlit | NumPy | Git | React
 
 
 ### 🤝 Open for Collaboration
-Interested in:
+                                                                                       Interested in:
 
 🔍 Information Retrieval research
 🤖 Machine Learning projects
