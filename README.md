@@ -1,5 +1,25 @@
 ## Hi there, I'm Bhushan 👋
 
+# Hi there, I'm Bhushan👋
+
+🚀 AI Developer | ML Enthusiast | Builder
+
+---
+
+### 🧠 About Me
+- 🔭 Currently working on AI projects
+- 🌱 Learning Machine Learning deeply
+- 💡 Love building cool systems
+
+---
+
+### ⚡ Skills
+Python | ML | Streamlit | NumPy | Git | React
+
+---
+
+### 📊 GitHub Stats
+
 <!--
 **Bhushanp2025/Bhushanp2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
