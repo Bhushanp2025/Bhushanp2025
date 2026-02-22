@@ -38,6 +38,6 @@ Python | ML | Streamlit | NumPy | Git | React
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bhushanp2025&show_icons=true&dark=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?Bhushanp2025=Bhushanp2025&show_icons=true&dark=tokyonight"/>
 </p>
 
