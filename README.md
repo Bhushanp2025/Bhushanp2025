@@ -55,7 +55,7 @@
 ---
 
 ## 💻 Languages & Core
-![Python](https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python)
+      ![Python](https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-0A0A0A?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-0A0A0A?style=for-the-badge&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0A0A0A?style=for-the-badge&logo=javascript)
