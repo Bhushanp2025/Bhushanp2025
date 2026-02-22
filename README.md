@@ -3,14 +3,6 @@
 # Hi there, I'm Bhushan👋
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=🚀+B.Tech+Computer+Science+Student;💻+Systems+%26+ML+Enthusiast;🔬+AI+Researcher;⚡+Building+Cool+Projects"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Developer;ML+Enthusiast;Builder&center=true&width=500&height=50&color=00BFFF&size=28">
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;Systems+%26+ML+Enthusiast;Generative+Retrieval+Researcher;Building+High+Performance+Systems"/>
 </p>
 ---
