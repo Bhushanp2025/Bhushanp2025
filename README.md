@@ -2,10 +2,9 @@
 
 # Hi there, I'm Bhushan👋
 
-🚀 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🚀 B.Tech Comuter Science Student;💻 Systems & ML Enthusiast;🔬 Generative Retrieval Researcher;⚡ Building High Performance; &center=true&width=500&height=50&color=00BFFF&size=28">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+B.Tech+Computer+Science+Student;💻+Systems+%26+ML+Enthusiast;🔬+Generative+Retrieval+Researcher;⚡+Building+High+Performance+Systems&center=true&width=600&height=50&color=00BFFF&size=28">
 </p>
-
 
 ---
 
