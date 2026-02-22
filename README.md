@@ -41,9 +41,13 @@
 
 
 ## 📊 GitHub Stats
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?Bhushanp2025=Bhushanp2025&show_icons=true&theme=tokyonight)
-                             ![GitHub Streak](https://streak-stats.demolab.com?user=Bhushanp2025&theme=tokyonight)
-                             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Bhushanp2025=Bhushanp2025&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?bhushanp2025=BHUSHANP2025&show_icons=true&dark=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?bhushanp2025=BHUSHANP2025&layout=compact&dark=tokyonight" height="170"/>
+</p>
 
 
 ---
