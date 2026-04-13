@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;Systems+%26+ML+Enthusiast;Generative+Retrieval+Researcher;Building+High+Performance+Systems"/>
 </p>
 
----
+--
 
 ### 🧠 About Me 
                                                              
@@ -12,13 +12,13 @@
                                              - 🌱 Learning Machine Learning deeply
                                              - 💡 Love building cool systems
 
----
+--
 
 ### ⚡ Skills & Technology
                                                              
                                              - Python | ML | Streamlit | NumPy | Git | React
 
----
+--
 
 ### 🤝 Open for Collaboration
                                                              Interested in:
