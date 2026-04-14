@@ -47,7 +47,6 @@
 ## 🤖 Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/-PyTorch-FF6F00?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Transformers](https://img.shields.io/badge/-Transformers-FFD21F?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-FF6F00?style=for-the-badge&logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/-Pandas-0A0A0A?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-0A0A0A?style=for-the-badge&logo=numpy)
@@ -74,7 +73,6 @@
 ---
 
 ## 🗄 Databases & Tools
-![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
