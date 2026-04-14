@@ -33,19 +33,6 @@
         Let's build something amazing together! Reach out for collaborations, project ideas, or research partnerships.
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhushanp2025&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Bhushanp2025&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhushanp2025&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p> 
-
----
-
 ## 💻 Languages & Core
    ![Python](https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python)
      ![C++](https://img.shields.io/badge/-C++-0A0A0A?style=for-the-badge&logo=cplusplus)
