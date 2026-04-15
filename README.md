@@ -12,13 +12,13 @@
                                              - 🌱 Learning Machine Learning deeply
                                              - 💡 Love building cool systems
 
---
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### ⚡ Skills & Technology
                                                              
                                              - Python | ML | Streamlit | NumPy | Git | React
 
---
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🤝 Open for Collaboration
                                                              Interested in:
@@ -31,7 +31,7 @@
                                                   📚 Open-source contributions
 
         Let's build something amazing together! Reach out for collaborations, project ideas, or research partnerships.
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💻 Languages & Core
    ![Python](https://img.shields.io/badge/-Python-0A0A0A?style=for-the-badge&logo=python)
@@ -41,7 +41,7 @@
      ![Java](https://img.shields.io/badge/-Java-0A0A0A?style=for-the-badge&logo=java)
      ![Rust](https://img.shields.io/badge/-Rust-0A0A0A?style=for-the-badge&logo=rust)
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🤖 Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/-PyTorch-FF6F00?style=for-the-badge&logo=pytorch)
@@ -51,7 +51,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-0A0A0A?style=for-the-badge&logo=numpy)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-FF6F00?style=for-the-badge&logo=jupyter)
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ⚡ Systems & Architecture
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux)
@@ -60,7 +60,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-D82C20?style=for-the-badge&logo=redis)
 ![Kafka](https://img.shields.io/badge/-Kafka-000000?style=for-the-badge&logo=apachekafka)
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🌐 Web & Backend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
@@ -69,7 +69,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🗄 Databases & Tools
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
@@ -77,7 +77,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠 Development Tools
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
