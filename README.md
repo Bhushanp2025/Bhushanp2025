@@ -21,7 +21,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🤝 Open for Collaboration
-                                                             Interested in:
+                                                             Interested in
 
                                                   🔍 Information Retrieval research
                                                   🤖 Machine Learning projects
