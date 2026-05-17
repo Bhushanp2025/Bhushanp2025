@@ -31,6 +31,8 @@
                                                   📚 Open-source contributions
 
         Let's build something amazing together! Reach out for collaborations, project ideas, or research partnerships.
+
+### 🤝 Entrepreneur
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 💻 Languages & Core
