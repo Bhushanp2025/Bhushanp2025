@@ -83,9 +83,13 @@
 
 ## 🛠 Development Tools
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim)
+
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
+
 ![Conda](https://img.shields.io/badge/-Conda-44A833?style=for-the-badge&logo=anaconda)
+
 ![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=for-the-badge)
 
 
